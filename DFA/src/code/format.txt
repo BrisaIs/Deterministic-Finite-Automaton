@@ -1,0 +1,4 @@
+alphabet
+nonFinalStates
+finalStates
+transitions
